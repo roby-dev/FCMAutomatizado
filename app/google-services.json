@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "226628409213",
+    "project_id": "fcmmejorado",
+    "storage_bucket": "fcmmejorado.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:226628409213:android:b31db427d933ec4cbd5e14",
+        "android_client_info": {
+          "package_name": "com.example.automatizadofcm"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "226628409213-ik3duvbi9thsd9phe6fftie7b8lddf81.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA1qEi9HN_eFinoJWuiO25S6l1Ibw0ZGAc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "226628409213-ik3duvbi9thsd9phe6fftie7b8lddf81.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:226628409213:android:16fbbfa9ee28b499bd5e14",
+        "android_client_info": {
+          "package_name": "com.example.fcmmejorado"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "226628409213-ik3duvbi9thsd9phe6fftie7b8lddf81.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA1qEi9HN_eFinoJWuiO25S6l1Ibw0ZGAc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "226628409213-ik3duvbi9thsd9phe6fftie7b8lddf81.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

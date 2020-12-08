@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:orientation="vertical"
+    android:layout_height="match_parent"
+    android:gravity="center"
+    tools:context=".activities.MainActivity">
+
+    <EditText
+        android:id="@+id/txtTitulo"
+        android:padding="10dp"
+        android:layout_margin="20dp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="@string/ingrese_titulo_de_la_notificaci_n"
+        android:textAlignment="center"/>
+    <EditText
+        android:id="@+id/txtMensaje"
+        android:padding="10dp"
+        android:inputType="textMultiLine"
+        android:layout_margin="20dp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="@string/ingrese_mensaje_de_la_notificaci_n" />
+
+    <Button
+        android:id="@+id/btnSend"
+        android:paddingTop="15dp"
+        android:paddingBottom="15dp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/enviar_notificaci_n"
+        android:layout_margin="20dp"/>
+
+</LinearLayout>

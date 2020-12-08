@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">AutomatizadoFCM</string>
+    <string name="ingrese_titulo_de_la_notificaci_n">Ingrese titulo de la notificación</string>
+    <string name="ingrese_mensaje_de_la_notificaci_n">Ingrese mensaje de la notificación</string>
+    <string name="ingrese_token">Ingrese token</string>
+    <string name="enviar_notificaci_n">Enviar notificación</string>
+</resources>
